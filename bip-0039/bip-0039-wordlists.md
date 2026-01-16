@@ -3,7 +3,8 @@
 * [English](english.txt)
 * [Japanese](japanese.txt)
 * [Korean](korean.txt)
-* [Spanish](spanish.txt)
+* [Chinese (Simplified)](chinese_simplified.txt)
+
 * [Chinese (Simplified)](chinese_simplified.txt)
 * [Chinese (Traditional)](chinese_traditional.txt)
 * [French](french.txt)
@@ -56,7 +57,7 @@ Credits: @Kirvx @NicolasDorier @ecdsa @EricLarch
 10. No very similar words with only 1 letter of difference.
 11. No essentially reflexive verbs (unless a verb is also a noun like "souvenir").
 12. No words with "ô;â;ç;ê;œ;æ;î;ï;û;ù;à;ë;ÿ".
-13. No words ending by "é;ée;è;et;ai;ait".
+13.The first 4 letters must be unique across all words.
 14. No demonyms.
 15. No words in conflict with the spelling corrections of 1990 (http://goo.gl/Y8DU4z).
 16. No embarrassing words (in a very, very large scope) or belonging to a particular religion.
